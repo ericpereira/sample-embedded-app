@@ -14,8 +14,7 @@ Para rodar o servidor web
 # Configurações Básicas Shopify
 Depois tem que alterar dentro da plataforma da shopify o endereço de servidor retornado pelo ngrok.
 Não esquecer de utilizar o https. As seguintes urls devem ser utilizadas:
-- URL do app. Ex: https://1027635a.ngrok.io/
-- URL(s) de redirecionamento na lista de permissões. Ex: https://1027635a.ngrok.io/auth/callback
+- URL do app. Ex: https://7a3043c0.ngrok.io/
+- URL(s) de redirecionamento na lista de permissões. Ex: https://7a3043c0.ngrok.io/auth/callback
 
-
-https://1027635a.ngrok.io/auth?shop=a474693fd418b031f4ad573fa14b4ce4.myshopify.com
+~~ https://7a3043c0.ngrok.io/auth?shop=a474693fd418b031f4ad573fa14b4ce4.myshopify.com ~~
